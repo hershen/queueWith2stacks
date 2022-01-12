@@ -1,8 +1,6 @@
 #include <queue.hpp>
 
 #include <cassert>
-#include <iostream>
-#include <vector>
 
 int main() {
   // push a series of numbers, then pop the whole content of the queue
